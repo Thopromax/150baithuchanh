@@ -2,7 +2,7 @@
 int main()
 {
 	int thang;
-	printf("nhap vao thang");
+	printf("nhap vao thang ");
 	scanf("%d",&thang);
 	switch (thang) {
 		case 1: case 2: case 3:
